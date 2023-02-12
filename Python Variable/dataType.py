@@ -16,11 +16,10 @@ print(fruit)
 months = ("jan","feb","march")
 print(type(months))
 print(months)
-#months.insert(0,"nishant")
+#months.insert(0,"md")
 #string
-e = """nishant
-tiwari
-age: 19
+e = """md uddin 
+age: 00
 """
 print(e)
 #set
@@ -28,6 +27,6 @@ f = {1,5,6,9,2,4,4}
 print(type(f))
 print(f)
 #dictionary : key/value
-g = {77:"nishant",99:"kartik"}
+g = {77:"md",99:"uddin"}
 print(type(g))
 print(g[77])
