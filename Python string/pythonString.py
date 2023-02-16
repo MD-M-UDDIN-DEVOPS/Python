@@ -5,7 +5,7 @@ world
 hello"""
 print(my_str_multi)
 
-my_new = "My name is Md_Uddin"
+my_new = "My name is Md_Uddin_"
 
 print(my_new[0:10])
 print(my_new[4:10])
